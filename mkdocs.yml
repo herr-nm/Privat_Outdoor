@@ -13,4 +13,9 @@ plugins:
 nav:
   - Tourenübersicht: 'index.md'
   - 2025:
-      Zugspitze: '2025/zugspitze.md'
+      - Zugspitze: '2025/zugspitze.md'
+  - 2024:
+  - 2023:
+      - Zugspitze: '2025/zugspitze.md'
+  - 2022:
+      - Zugspitze: '2025/zugspitze.md'
