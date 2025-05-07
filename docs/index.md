@@ -1,18 +1,9 @@
-# Tourenübersicht
+# Outdoor-Aktivitäten
 
-## 2025
+Auf dieser Seite stelle ich meine Touren vor.
 
-## 2024
+**Harzer Wandernadel Touren (HWN)** sind Wanderstrecken oder Routen, die Wanderer zu den über 222 Stempelstellen im Harz führen. Jede dieser Touren kann eine oder mehrere dieser Stempelstellen enthalten. Die Touren sind nicht offiziell festgelegt, sondern können individuell geplant oder aus vorgeschlagenen Routen übernommen werden, z.B. aus Wanderführern oder der offiziellen Website.
 
-- [Ellmauer Tor](ellmau.html)
-- [Zugspitze](zugspitze.html)
-- [Kitzbühler Horn](kitzbuehl.html)
-- [Stuibenfall](stuibenfall.html)
+**Klettersteige** (via ferrata) sind gesicherte Kletterrouten im Fels, die mit fest installierten Stahlseilen, Eisenleitern, Trittstiften, Brücken und weiteren Hilfsmitteln ausgestattet sind. Sie ermöglichen es auch weniger erfahrenen Bergsteigern, anspruchsvolles Gelände zu begehen, ohne dass vollständige Kletterkenntnisse erforderlich sind. Die höheren Schwierigkeitsgrade können einen Klettersteig aber auch sehr anspruchsvoll machen.
 
-## 2023
-
-## 2022
-
-## 2021
-
-## 2020
+**Seilklettern in Mehrseillänge** bezeichnet eine Form des Felskletterns, bei der eine Kletterroute aus mehreren aufeinanderfolgenden Einzelseillängen besteht. Sie ist eine typische Disziplin im Alpinklettern und findet in hohem Felsgelände oder an großen Kletterwänden statt, oft in den Alpen oder anderen Gebirgsregionen. Dabei klettert eine Person im Vorstieg und eine Person sichert vom Standplatz; anschließend steigt die sichernde Person nach und wird von oben gesichert.

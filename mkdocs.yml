@@ -10,11 +10,19 @@ markdown_extensions:
 plugins:
   - search
 
+#use_directory_urls: false
+
 nav:
   - Tourenübersicht: 'index.md'
   - 2025:
-      - Zugspitze: '2025/zugspitze.md'
+      - HWN Tour Bad Lauterberg: '2025/2025_04_08_hwn_tour_bad_lauterberg.md'
   - 2024:
+      - Abzeichen Totenkopfschwimmen: '2024/2024_07_14_abzeichen_totenkopfschwimmen.md'
+      - Klettersteig Kitzbüheler Horn: '2024/2024-08-01_klettersteig_kitzbuehler_horn.md'
+      - Ellmauer Tor Tour: '2024/2024-08-02_ellmauer_tor_tour.md'
+      - Adolari Klettersteig: '2024/2024-08-02_adolari_klettersteig.md'
+      - Achensee 5 Gipfel Klettersteig: '2024/2024-08-03_achensee_5_gipfel_klettersteig.md'
+      - HWN Tour Clausthal-Zellerfeld: '2024/2024_08_24_hwn_tour_clausthal_zellerfeld.md'
   - 2023:
       - Zugspitze: '2025/zugspitze.md'
   - 2022:
