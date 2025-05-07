@@ -19,4 +19,4 @@ site_url: https://herr-nm.github.io/Privat_Outdoor
 nav:
     - Tourenübersicht: 'index.md'
     - 2025:
-      Zugspitze: 'zugspitze.md'
+      Zugspitze: '2025/zugspitze.md'
