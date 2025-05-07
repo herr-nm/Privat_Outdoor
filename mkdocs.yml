@@ -13,4 +13,4 @@ plugins:
 nav:
   - Tourenübersicht: 'index.md'
   - 2025:
-    Zugspitze: '2025/zugspitze.md'
+      Zugspitze: '2025/zugspitze.md'
