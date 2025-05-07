@@ -17,5 +17,6 @@ repo_url: https://github.com/herr-nm/Privat_Outdoor
 site_url: https://herr-nm.github.io/Privat_Outdoor
 
 nav:
-    - Tourenübersicht 'index.md'
-    - Zugspitze 'zugspitze.md'
+    - Tourenübersicht: 'index.md'
+    - 2025:
+      Zugspitze: 'zugspitze.md'
